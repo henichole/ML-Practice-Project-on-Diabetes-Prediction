@@ -1,1 +1,0 @@
-# ML-Practice-Project-on-Diabetes-Prediction
